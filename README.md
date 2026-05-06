@@ -25,7 +25,7 @@ brew install unar
 ## Installation
 
 ```bash
-ya pack -a jaam8/wise-enter.yazi
+ya pkg add jaam8/wise-enter
 ```
 
 Or manually clone into your Yazi plugins directory:
